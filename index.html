@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Page Title</title>
+    </head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="normalize.css">
+    <script src="JSTest.js"></script>
+    <body>
+		<p>Choose a manifest .gpx file:&nbsp;<input type="file" onchange="readFile(this)"></p>
+        
+        <input type="button" value="Undo" onclick="undoAdd()">
+        <input type="button" value="Done" onclick="finishReorder()">
+
+        <br>
+
+        <div class="duallists">
+            <div id="prelist"></div>
+            <div id="postlist"></div>
+        </div>
+        <div id="fileOutput"></div>
+        <div id="exportButtons">
+            <input type="button" value="Export to Garmin format" onclick="downloadGarmin()">
+            <input type="button" value="Export to CSV format" onclick="downloadCSV()">
+            <input type="button" value="Export to OSM Pin format" onclick="downloadOsmPins()">
+        </div>
+        
+    </body>
+</html>

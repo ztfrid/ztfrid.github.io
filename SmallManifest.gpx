@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.0" creator="CPCMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <rte>
+    <name>WA 0347</name>
+    <rtept lon="-86.092744" lat="44.233838">
+      <name>Seq 1:SID 1000:10500 CABERFAE HWY</name>
+    </rtept>
+    <rtept lon="-86.022138" lat="44.205541">
+      <name>Seq 2:SID 1001:2405 GUNN RD</name>
+    </rtept>
+    <rtept lon="-86.022087" lat="44.208117">
+      <name>Seq 3:SID 1013:2225 GUNN RD</name>
+    </rtept>
+    <rtept lon="-86.113227" lat="44.231806">
+      <name>Seq 4:SID 1075:9468 CABERFAE HWY</name>
+    </rtept>
+    <rtept lon="-86.164786" lat="44.258280">
+      <name>Seq 5:SID 1505:7653 GUENTHARDT RD</name>
+    </rtept>
+    <rtept lon="-86.157871" lat="44.279820">
+      <name>Seq 6:SID 1515:2406 BIALIK RD</name>
+    </rtept>
+    <rtept lon="-86.142430" lat="44.255693">
+      <name>Seq 7:SID 1544:867 SKOCELAS RD N</name>
+    </rtept>
+  </rte></gpx>
